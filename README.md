@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joaofeliperl/joaofeliperl/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/joaofeliperl/joaofeliperl/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
